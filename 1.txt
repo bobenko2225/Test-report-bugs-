@@ -1,2 +1,9 @@
 test case 1 
+
+git comit 
+report bug 
+564343
+new file 
+
+info about test case 2
 test case 1
