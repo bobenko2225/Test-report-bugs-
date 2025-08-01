@@ -6,4 +6,4 @@ report bug
 new file 
 
 info about test case 2
-test case 1
+test case 3 
